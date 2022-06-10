@@ -1,0 +1,170 @@
+body{
+    margin: 0px;
+    background-image: url(12molaswall.jpg);
+
+}
+.nav {
+    font-size: 20px;
+    padding: 20px 60px;
+    text-decoration: none;
+    color: black;
+}
+nav {
+    border: 0px solid white;
+    box-shadow: 0px 0px 50px black; 
+    border-radius: 10px;
+    width: 600px;
+    background-color: white;
+    margin-left: 375px;
+    margin-top: 30px;
+    margin-right: 375px;
+    text-align: right;
+
+}
+.nav:hover {
+    color: white;
+    background-color: purple;
+    border-radius: 50px;
+}
+h1 {
+    height: 250px;
+    color: yellow;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Lobster', cursive;
+    
+}
+
+span {
+    position: relative;
+    top: 70px; 
+}
+h3 {
+    padding: 20px 0px 0px 0px;
+    font-size: 60px;
+    color: black;
+}
+h3{
+    text-align: center;
+}
+.white {
+    border: 0px solid white;
+    box-shadow: 0px 0px 50px black; 
+    border-radius: 10px;
+    margin: 0px 50px;
+    background-color: white;
+    height: 1500px;
+}
+.white2 {
+    border: 0px solid white;
+    box-shadow: 0px 0px 70px black; 
+    border-radius: 10px;
+    margin: 0px 250px;
+    background-color: white;
+    height: 700px;
+}
+
+form{
+    font-size: 20px;
+    text-align: center;
+}
+
+.contato {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 0px 0px 30px purple;
+}
+footer {
+    background-color: purple;
+    position: relative;
+    top: 130px;
+    height: 100px;
+    text-align: center;
+    color: yellow;
+    border-radius: 30px;
+}
+.footerNome {
+    font-size: 20px;
+    position: relative;
+    top: 40px;
+    
+}
+.tenis {
+    display: block;
+    width: 1200px;
+    margin-left: 60px;
+}
+.nike24 img {
+    padding: 10px 90px;
+    width: 200px;
+    height: 200px;
+    box-shadow: 0px 0px 40px black;
+    border-radius: 30px;
+    margin-left: 10px;
+
+}
+
+.nike24 {
+
+    background-color: purple;
+    color: black;
+    border: 0px solid white;
+    border-radius: 50px;
+    box-shadow: 0px 0px 30px black;
+    width: auto;
+
+}
+.nome {
+    font-family: 'Lobster', cursive;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.nome:hover {
+    text-shadow: 0px 0px 15px black;
+    color: white;
+}
+h4{
+    text-align: center;
+    font-size: 45px;
+    position: relative;
+    top: -20px;
+    color: purple;
+}
+
+section img{
+    width: 400px;
+    padding: 20px 100px;
+    position: relative;
+    top: 120px;
+    left: 300px;
+    right: 80px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 50px black;
+      
+}
+.p2{
+    text-align: center;
+    position: relative;
+    top: -500px;
+    font-weight: 100;
+    right: 10px;
+    font-family: 'Satisfy', cursive;
+    color: purple;
+    font-size: 25px;
+}
+.span2:hover{
+    color: black;
+
+}
+ h3:hover{
+     color: purple;
+ }
+ h4:hover{
+     color: black;
+ }
+ 
